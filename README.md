@@ -1,6 +1,6 @@
 # Time-Forecasting-using-RNN
-used LSTM/GRU 
+used LSTM/GRU to train
 
 used Pytorch ##GPU accelerated... CUDA
 
-open it using colab/Jupyter notebook anything alike standalone web or app
+open it using colab/Jupyter notebook or anything alike standalone web or app
