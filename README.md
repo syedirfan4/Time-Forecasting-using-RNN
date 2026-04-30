@@ -1,4 +1,4 @@
-# Time-Forecasting-using-RNN
+# Time-Forecasting-using-LSTM/GRU
 used LSTM/GRU to train
 
 used Pytorch ##GPU accelerated... CUDA
